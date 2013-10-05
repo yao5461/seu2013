@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+                             SEU-3D README
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+General Information:
+
+This is Southeast University RoboCup simulation team,SEU-3D project for RoboCup 3D Simulation league.
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Destination:
+
+The destination of our source code is to build a stable base team that everyone who are interested in robocup 3d simulation league but without much time doing robotics research can easily build his or her own team quickly based on it. We hope we will create robots that run fast and stablely enough that we can pay our attention to the strategies of the players, not only the actions.
+Altogether, anyone who want to research robotics can also develop his or her own robots based on the architecture of the source code.
+We hope the source code will become a good open platform where everyone who are intersted in 3d simulation and robotics can appy their ideas to researches.
+We will update the source code when big bugs are found, and when server changes much, and some good ideas are raised up.
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Licsense:
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or (at your
+option) any later version. Accordingly, this program is distributed in the
+hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See
+the GNU General Public License (that is copying file in the top directory) for more details.
+---------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+Install and dependencies:
+
+This program use boost-dev packages, so you should install it first.
+This program links boost_program_options-mt and boost_thread-mt, some linux distributions use boost_program_options and boost_thread instead
+, if it happens, you should ln -s them first.
+The make tools of the program is cmake, so you should also install it before you test the source code
+This program has been tested on fedora, opensuse, ubuntu, freebsd, slackware, and it works good!
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+Known bugs or problems:
+
+
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+Contact of us:
+
+If you have any good ideas about our source code, or if you find some bugs of our source code, plase contact us.
+
+email: seu3dteam@gmail.com
+address: School of Automation, Southeast Unviersity, Sipailou 2, District Xuanwu, Nanjing, Jiangsu, China.
+postal code: 210096
+ 
