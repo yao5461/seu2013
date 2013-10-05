@@ -1,3 +1,7 @@
+2013-10-05 21:30 Liu Yao<xuanyao0111@gmail.com>
+-create repository of our code using in 2013 ChinaOpen in Github.(in my account)
+ We set this version as init version in this game.
+
 2013-06-13 20:30 Liu Yao<xuanyao0111@gmail.com>
 src/lib/robot/import/RSGImport.cpp
 -in function evalHetero, add new hetero paramters of legs and arms
